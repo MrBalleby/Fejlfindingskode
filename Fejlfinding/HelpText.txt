@@ -1,0 +1,8 @@
+﻿Commands:
+-add: starts adding mode, allowing the user to add words to the list.
+-list: prints a list of current words in the program.
+-sort: sorts the list alphabetically.
+-change: allows you to change words in the list.
+-remove: allows you to remove words in the list.
+-help: shows this menu.
+-quit: closes the program.
